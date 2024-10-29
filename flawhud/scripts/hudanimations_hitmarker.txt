@@ -1,0 +1,10 @@
+event DamagedPlayer
+{
+	RunEvent Hitmarker	0.0
+}
+
+event Hitmarker
+{
+	Animate	Hitmarker	Alpha	"255"	Linear 0.0 0.0	// start
+	Animate	Hitmarker	Alpha	"0"		Linear 0.0 0.35 // end
+}
