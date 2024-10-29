@@ -51,7 +51,7 @@
 	"ModelInspectionPanel"
 	{
 		"fieldName"		"ModelInspectionPanel"
-		"xpos"			"cs-0.8"
+		"xpos"			"cs-0.5"
 		"ypos"			"20"
 		"zpos"			"5"
 		"wide"			"o1.5"
