@@ -282,4 +282,5 @@
 		"scaleImage"		"1"
 		"pin_to_sibling"	"ResistIconAnchor"
 	}
+
 }

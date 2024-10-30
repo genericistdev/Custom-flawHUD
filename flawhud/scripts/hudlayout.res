@@ -112,12 +112,12 @@
 		"fieldName"			"HudBowCharge"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"0"
-		"ypos"				"0"
+		"xpos"				"c150"
+		"ypos"				"c150"
 		"zpos"				"1"
-		"wide"				"0"
-		"tall"				"500"
-		"MeterFG"			"White"
+		"wide"				"110"
+		"tall"				"2"
+		"MeterFG"			"TanLight"
 		"MeterBG"			"Gray"
 	}
 
@@ -560,9 +560,6 @@
 		"xpos"				"c-310"
 		"ypos"				"r116"
 		"zpos" 				"2"
-		"TextFont"			"Default"
-		"ItemFont"			"Default"
-		"ItemFontPulsing"	"Default"
 	}
 
 	"HudCloseCaption"
@@ -680,9 +677,9 @@
 	"HudScopeCharge"
 	{
 		"fieldName"			"HudScopeCharge"
-		"visible"			"1"
-		"enabled"			"1"
-		"xpos"				"c64"
+		"visible"			"0"
+		"enabled"			"0"
+		"xpos"				"9999"
 		"ypos"				"c-64"
 		"wide"				"64"
 		"tall"	 			"128"
