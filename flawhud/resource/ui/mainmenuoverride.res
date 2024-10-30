@@ -1285,12 +1285,12 @@
 		}
 	}
 
-	"VersionLabel"
+	"VersionLabel" //v2024.0501
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"VersionLabel"
 		"font"				"FontRegular12"
-		"labelText"			"FlawHUD v2024.0501"
+		"labelText"			"FlawHUD+"
 		"labelText_minmode"	"#FH_streamer_mode_active"
 		"xpos"				"rs1-5"
 		"ypos"				"r13"
