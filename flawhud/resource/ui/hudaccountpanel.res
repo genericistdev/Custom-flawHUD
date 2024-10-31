@@ -3,12 +3,11 @@
 
 	"CHudAccountPanel"
 	{
-		"delta_item_x"			"75"
-		"delta_item_start_y"		"0"
-		"delta_item_end_y"		"20"
-		"PositiveColor"			"0 170 127 255"
-		"NegativeColor"			"190 20 20 200"
-		"delta_lifetime"		"1.25"
+		"delta_item_x"			"33"
+		"delta_item_start_y"	"10"
+		"delta_item_end_y"		"40"
+		"PositiveColor"			"Overheal"
+		"delta_lifetime"		"1"
 		"delta_item_font"		"FontBold22"
 	}
 

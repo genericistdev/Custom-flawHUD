@@ -26,15 +26,15 @@
 		"zpos"				"2"
 		"wide"				"110"
 		"tall"				"2"
-		"autoResize"			"0"
+		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"textAlignment"			"center"
+		"textAlignment"		"center"
 		"dulltext"			"0"
-		"brighttext"			"0"
-		"fgcolor_override"		"255 255 255 255"
-		"fgcolor"			"255 255 255 255"
+		"brighttext"		"0"
+		"fgcolor_override"	"TanLight"
+		"fgcolor"			"TanLight"
 	}
 
 }

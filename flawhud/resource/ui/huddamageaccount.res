@@ -9,8 +9,8 @@
 		"PositiveColor"			"TargetHealth"
 		"NegativeColor"			"TargetDamage"
 		"delta_lifetime"		"1.25"
-		"delta_item_font"		"FontBold20"
-		"delta_item_font_big"	"FontBold20"
+		"delta_item_font"		"FontRegular20"
+		"delta_item_font_big"	"FontRegular20"
 	}
 
 	"DamageAccountValue"
@@ -25,7 +25,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"%metal%"
-		"textAlignment"			"west"
+		"textAlignment"				"west"
 		"font"					"FontBold22"
 		"fgcolor"				"TargetDamage"
 	}
@@ -42,24 +42,24 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"labelText"				"%metal%"
-		"textAlignment"			"west"
-		"font"					"FontBold22"
+		"textAlignment"				"west"
+		"font"					"FontRegular22"
 		"fgcolor"				"Black"
-		"pin_to_sibling"		"DamageAccountValue"
+		"pin_to_sibling"			"DamageAccountValue"
 	}
 	
 	Hitmarker
 	{
-		"fieldName" "Hitmarker"
-		"ControlName"	"ImagePanel"
-		"visible" "1"
-		"enabled" "1"
-		"xpos"	"c-12"
-		"ypos"	"r252"
-		"wide"	"24"
-		"tall"	"24"
-		"image"	"replay/thumbnails/ow_hitmarker"
-		"scaleImage"	"1"
-		"alpha"		"0"
+		"fieldName" 		"Hitmarker"
+		"ControlName"		"ImagePanel"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c-12"
+		"ypos"			"r252"
+		"wide"			"24"
+		"tall"			"24"
+		"image"			"replay/thumbnails/ow_hitmarker"
+		"scaleImage"		"1"
+		"alpha"			"0"
 	}
 }

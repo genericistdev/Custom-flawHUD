@@ -58,15 +58,15 @@
 		"xpos"				"0"
 		"ypos"				"25"
 		"zpos"				"5"
-		"wide"				"80"
+		"wide"				"400"
 		"tall"				"15"
-		"visible"			"0"
+		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"#game_Overtime"
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"wrap"				"0"
+		"wrap"				"1"
 		"font"				"FontRegular10"
 		
 		if_match
