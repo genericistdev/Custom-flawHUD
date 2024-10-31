@@ -54,8 +54,8 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"20"
 		"zpos"			"5"
-		"wide"			"o1.5"
-		"tall"			"p0.8"
+		"wide"			"f0"
+		"tall"			"480"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"force_use_model"		"1"
@@ -66,6 +66,7 @@
 		"use_pedestal"			"1"
 		"use_particle"			"1"
 		"fov"					"65"
+		"allow_manip"		"1"
 
 		"consume_mode"
 		{
