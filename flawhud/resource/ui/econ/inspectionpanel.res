@@ -52,7 +52,7 @@
 	{
 		"fieldName"		"ModelInspectionPanel"
 		"xpos"			"cs-0.5"
-		"ypos"			"20"
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"480"
@@ -85,7 +85,7 @@
 			"angles_z" "0"
 			"origin_x" "175"
 			"origin_y" "0"
-			"origin_z" "0"
+			"origin_z" "5"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"

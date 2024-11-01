@@ -99,27 +99,27 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"c150"
-		"ypos"				"c151"
+		"ypos"				"c150"
 		"zpos"				"1"
 		"wide"				"110"
-		"tall"				"2"
+		"tall"				"5"
 		"MeterFG"			"TanLight"
 		"MeterBG"			"Gray"
 	}
 
-	"HudBowCharge"
-	{
-		"fieldName"			"HudBowCharge"
-		"visible"			"0"
-		"enabled"			"0"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"0"
-		"wide"				"0"
-		"tall"				"0"
-		"MeterFG"			"TanLight"
-		"MeterBG"			"Gray"
-	}
+//	"HudBowCharge"
+//	{
+//		"fieldName"			"HudBowCharge"
+//		"visible"			"1"
+//		"enabled"			"1"
+//		"xpos"				"c150"
+//		"ypos"				"c160"
+//		"zpos"				"0"
+//		"wide"				"110"
+//		"tall"				"10"
+//
+//	}
+
 
 	"HudFlameRocketCharge"
 	{
