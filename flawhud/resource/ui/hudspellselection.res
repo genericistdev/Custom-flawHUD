@@ -37,12 +37,13 @@
 		"font"				"HudFontSmallest"
 		"labelText"			"%actiontext%"
 		"textAlignment"		"west"
-		"xpos"				"0"
+		"xpos"				"9999"
 		"ypos"				"22"
 		"wide"				"80"
 		"tall"				"10"
 		"fgcolor"			"TanLight"
 		"visible"			"1"
+		"enabled"			"1"
 	}
 
 	"SpellText"

@@ -58,23 +58,17 @@
 		"xpos"				"0"
 		"ypos"				"25"
 		"zpos"				"5"
-		"wide"				"400"
+		"wide"				"p1"
 		"tall"				"15"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"1"
 		"labelText"			"#game_Overtime"
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"wrap"				"1"
+		"wrap"				"0"
 		"font"				"FontRegular10"
-		
-		if_match
-		{
-			"proportionaltoparent"	"1"
-			"wide"					"p1"
-			"font"					"FontRegular10"
-		}
+		"proportionaltoparent"	"1"
 	}
 	"OvertimeBG"
 	{

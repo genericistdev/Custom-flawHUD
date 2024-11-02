@@ -51,7 +51,7 @@
 	"ModelInspectionPanel"
 	{
 		"fieldName"		"ModelInspectionPanel"
-		"xpos"			"cs-0.5"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"f0"
@@ -128,10 +128,10 @@
 	{
 		"ControlName"		"CNavigationPanel"
 		"fieldName"			"TeamNavPanel"
-		"xpos"				"cs1.4"
-		"ypos"				"c-135"
-		"zpos"				"100"
-		"wide"				"60"
+		"xpos"				"c-25"
+		"ypos"				"r260"
+		"zpos"				"1000"
+		"wide"				"58"
 		"tall"				"25"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -197,6 +197,8 @@
 
 		"Buttons"
 		{
+		
+
 			"all"
 			{
 				"userdata"			"2"
@@ -228,8 +230,9 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PaintkitPreviewContainer"
-		"xpos"			"cs0.3"
-		"ypos"			"p.2"
+		"xpos"			"r255"
+		"ypos"			"r430"
+		"zpos"			"100"
 		"wide"			"250"
 		"tall"			"190"
 		"zpos"			"100"
@@ -638,5 +641,84 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 		}
+		
 	}
+	
+	"ZoomInfoLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ZoomInfoLabel"
+		"font"			"DefaultVerySmall"
+		"labelText"		"Zoom: MOUSE2"
+		"textAlignment"	"center"
+		"xpos"			"c-310"
+		"ypos"			"330"
+		"zpos"			"50"
+		"wide"			"75"
+		"tall"			"10"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "TanLight"
+	}
+	
+	
+	"MoveInfoLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"MoveInfoLabel"
+		"font"			"DefaultVerySmall"
+		"labelText"		"Move: SHIFT"
+		"textAlignment"	"center"
+		"xpos"			"c-312"
+		"ypos"			"336"
+		"zpos"			"50"
+		"wide"			"75"
+		"tall"			"10"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "TanLight"
+	}
+	
+	"RotateInfoLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RotateInfoLabel"
+		"font"			"DefaultVerySmall"
+		"labelText"		"Rotate: ALT"
+		"textAlignment"	"center"
+		"xpos"			"c-315"
+		"ypos"			"342"
+		"zpos"			"50"
+		"wide"			"75"
+		"tall"			"10"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "TanLight"
+	}
+	
+	"LightInfoLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"LightInfoLabel"
+		"font"			"DefaultVerySmall"
+		"labelText"		"Lighting: CTRL"
+		"textAlignment"	"center"
+		"xpos"			"c-315"
+		"ypos"			"348"
+		"zpos"			"50"
+		"wide"			"75"
+		"tall"			"10"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "TanLight"
+	}
+	
 }
