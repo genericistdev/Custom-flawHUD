@@ -177,7 +177,7 @@
 			"angles_x" "0"
 			"angles_y" "170"
 			"angles_z" "0"
-			"origin_x" "350"
+			"origin_x" "410"
 			"origin_y" "0"
 			"origin_z" "-40"
 			"frame_origin_x"	"0"
@@ -237,7 +237,7 @@
 		"zpos"			"2"
 		"wide"			"270"
 		"tall"			"220"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
@@ -254,7 +254,7 @@
 		"zpos"			"20"
 		"wide"			"150"
 		"tall"			"25"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -407,6 +407,7 @@
 		"centerwrap"	"1"
 	}
 
+
 	"RedButton"
 	{
 		"ControlName"	"CExImageButton"
@@ -414,14 +415,14 @@
 		"xpos"				"c29"
 		"ypos"				"340"
 		"zpos"				"12"
-		"wide"				"52"
+		"wide"				"25"
 		"tall"				"25"
 		"autoResize"		"1"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"RED"
+		"labelText"			"R"
 		"textAlignment"		"center"
 		"font"				"FontBold16"
 		"scaleImage"		"1"
@@ -449,17 +450,17 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"BlueButton"
-		"xpos"				"c-81.4"
+		"xpos"				"c-53"
 		"ypos"				"340"
 		"zpos"				"12"
-		"wide"				"52"
+		"wide"				"25"
 		"tall"				"25"
 		"autoResize"		"1"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"BLU"
+		"labelText"			"B"
 		"textAlignment"		"center"
 		"font"				"FontBold16"
 		"scaleImage"		"1"
@@ -481,12 +482,12 @@
 		"border_armed"				""
 		"border_depressed"			""
 	}
-
+	
 	"CharacterLoadoutButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterLoadoutButton"
-		"xpos"			"c-27"
+		"xpos"			"c-26"
 		"ypos"			"340"
 		"zpos"			"2"
 		"wide"			"25"
@@ -516,6 +517,7 @@
 		"depressedBgColor_override" 		"DarkGrey"
 
 	}
+	
 	"TauntLoadoutButton"
 	{
 		"ControlName"	"CExImageButton"
@@ -657,8 +659,83 @@
 				"scaleImage"	"1"
 			}
 		}
+	}
 		
-		
+	"ZoomInfoLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ZoomInfoLabel"
+		"font"			"DefaultVerySmall"
+		"labelText"		"Zoom: MOUSE2"
+		"textAlignment"	"center"
+		"xpos"			"c-149"
+		"ypos"			"330"
+		"zpos"			"50"
+		"wide"			"75"
+		"tall"			"10"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "TanLight"
+	}
+	
+	
+	"MoveInfoLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"MoveInfoLabel"
+		"font"			"DefaultVerySmall"
+		"labelText"		"Move: SHIFT"
+		"textAlignment"	"center"
+		"xpos"			"c-152"
+		"ypos"			"336"
+		"zpos"			"50"
+		"wide"			"75"
+		"tall"			"10"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "TanLight"
+	}
+	
+	"RotateInfoLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RotateInfoLabel"
+		"font"			"DefaultVerySmall"
+		"labelText"		"Rotate: ALT"
+		"textAlignment"	"center"
+		"xpos"			"c-155"
+		"ypos"			"342"
+		"zpos"			"50"
+		"wide"			"75"
+		"tall"			"10"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "TanLight"
+	}
+	
+	"LightInfoLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"LightInfoLabel"
+		"font"			"DefaultVerySmall"
+		"labelText"		"Lighting: CTRL"
+		"textAlignment"	"center"
+		"xpos"			"c-155"
+		"ypos"			"348"
+		"zpos"			"50"
+		"wide"			"75"
+		"tall"			"10"
+		"autoResize"	"1"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override" "TanLight"
 	}
 	
 }

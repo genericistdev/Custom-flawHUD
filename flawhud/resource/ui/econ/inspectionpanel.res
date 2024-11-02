@@ -651,7 +651,7 @@
 		"font"			"DefaultVerySmall"
 		"labelText"		"Zoom: MOUSE2"
 		"textAlignment"	"center"
-		"xpos"			"c-310"
+		"xpos"			"c-309"
 		"ypos"			"330"
 		"zpos"			"50"
 		"wide"			"75"

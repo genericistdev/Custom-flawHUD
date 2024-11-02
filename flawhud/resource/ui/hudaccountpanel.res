@@ -3,9 +3,9 @@
 
 	"CHudAccountPanel"
 	{
-		"delta_item_x"			"33"
-		"delta_item_start_y"	"10"
-		"delta_item_end_y"		"40"
+		"delta_item_x"			"27"
+		"delta_item_start_y"	"16"
+		"delta_item_end_y"		"45"
 		"PositiveColor"			"Overheal"
 		"delta_lifetime"		"1"
 		"delta_item_font"		"FontBold22"
@@ -24,7 +24,7 @@
 	{
 		"ControlName"			"CIconPanel"
 		"fieldName"				"MetalIcon"
-		"xpos"					"18"
+		"xpos"					"21"
 		"ypos"					"6"
 		"zpos"					"1"
 		"wide"					"10"
