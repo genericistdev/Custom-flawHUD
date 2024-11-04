@@ -557,7 +557,7 @@
 		"enabled" 			"1"
 		"wide"	 			"640"
 		"tall"	 			"480"
-		"xpos"				"c-310"
+		"xpos"				"c-300"
 		"ypos"				"r116"
 		"zpos" 				"2"
 	}

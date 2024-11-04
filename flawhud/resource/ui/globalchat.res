@@ -43,7 +43,7 @@
 		"visible"				"1"
 		"proportionaltoparent"	"1"
 		"RoundedCorners"		"0"
-		"font"					"HudFontSmallest"
+		"font"					"HudFontSmallest15"
 		"paintbackground"		"0"
 		"pinCorner"				"2"
 		"autoResize"			"1"
