@@ -44,7 +44,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"Transparent"
+		"bgcolor_override"	"TransparentBlack"
 	}
 
 	"ToolTipHack"
@@ -69,8 +69,8 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"5"
-		"tall"			"40"
-		"wide"			"115"
+		"tall"			"50"
+		"wide"			"140"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%button_token%"
@@ -91,10 +91,10 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
-		"defaultFgColor_override"	"Transparent"
-		"armedFgColor_override"		"Transparent"
-		"depressedFgColor_override" "Transparent"
+
+		"defaultFgColor_override"	"TanDark"
+		"armedFgColor_override"		"TanLight"
+		"depressedFgColor_override" "TanDark"
 	}
 
 	"MatchmakingBanPanel"
