@@ -53,7 +53,7 @@
 			"ypos"			"cs-0.5"
 			"zpos"			"0"
 			"wide"			"120"
-			"tall"			"60"
+			"tall"			"80"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
