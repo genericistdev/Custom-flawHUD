@@ -1320,7 +1320,7 @@
 		"visible" 			"1"
 		"enabled" 			"1"
 		"xpos"				"c-235"
-		"ypos"				"c155"
+		"ypos"				"c5"
 		"zpos"				"10"
 		"wide"				"470"
 		"tall"				"88"
