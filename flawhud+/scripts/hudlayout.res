@@ -78,7 +78,7 @@
 		"ypos"				"c152"
 		"zpos"				"1"
 		"wide"				"110"
-		"MeterFG"			"TanLight"
+		"MeterFG"			"White"
 		"MeterBG"			"Gray"
 	}
 
@@ -103,7 +103,7 @@
 		"zpos"				"1"
 		"wide"				"110"
 		"tall"				"5"
-		"MeterFG"			"TanLight"
+		"MeterFG"			"White"
 		"MeterBG"			"Gray"
 	}
 

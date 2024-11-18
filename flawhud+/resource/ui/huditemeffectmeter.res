@@ -10,8 +10,7 @@
 		"zpos"				"1"
 		"wide"				"110"
 		"tall"				"10"
-		"MeterFG"			"TanLight"
-		"MeterBG"			"Gray"
+
 	}
 
 	"ItemEffectMeterLabel"
