@@ -58,7 +58,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"5"
+		"xpos"					"2"
 		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"85"
@@ -104,7 +104,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"StreakIcon"
-		"xpos"					"0"
+		"xpos"					"-3"
 		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"15"
@@ -112,7 +112,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"K"
-		"textAlignment"			"west"
+		"textAlignment"			"east"
 		"font"					"SmallIcons"
 		"fgcolor_override"		"TanLight"
 	}
@@ -129,7 +129,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"K"
-		"textAlignment"			"west"
+		"textAlignment"			"east"
 		"font"					"SmallIcons"
 		"fgcolor_override"		"Black"
 		"pin_to_sibling"		"StreakIcon"
