@@ -908,18 +908,6 @@
 		"tall"				"160"
 	}
 
-	"HudChat"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName" 		"HudChat"
-		"visible" 			"1"
-		"enabled" 			"1"
-		"xpos"				"0"
-		"ypos"				"0"
-		"wide"	 			"320"
-		"tall"	 			"120"
-		"PaintBackgroundType"	"2"
-	}
 
 	"HudMenuEngyBuild"
 	{
