@@ -123,6 +123,12 @@ event HudMedicChargedStop
 	
 	Animate	ChargeLabel					FgColor		"TanLight"			Accel 0.0 0.0
 }
+
+event HudMedicChargedLoop
+{
+	RunEvent HudMedicCharged 0.0
+}
+
 //==================================================================================
 
 // Spy Disguise
@@ -182,4 +188,3 @@ event CompetitiveGame_LowerChatWindow { }
 event CompetitiveGame_RestoreChatWindow { }
 event HudTournament_MoveChatWindow { }
 event HudCartAlarmPulse{}
-

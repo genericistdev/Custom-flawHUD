@@ -81,14 +81,18 @@
 		"MeterFG"			"White"
 		"MeterBG"			"Gray"
 	}
+	
+	//Replace comments out to move back to center
 
 	"HudMedicCharge"
 	{
 		"fieldName"			"HudMedicCharge"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"0"
-		"ypos"				"-15"
+	      //"xpos"				"0"
+	      //"ypos"				"-15"	
+		"xpos"				"205"
+		"ypos"				"8"
 		"wide"				"f0"
 		"tall"				"f0"
 	}
