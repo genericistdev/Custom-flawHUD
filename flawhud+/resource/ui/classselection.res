@@ -1304,7 +1304,7 @@
 		{
 			"force_pos"				"1"
 			"angles_x"				"0"
-			"angles_y"				"200"
+			"angles_y"				"184"
 			"angles_z"				"0"
 			"origin_x"				"250"
 			"origin_y"				"25"
