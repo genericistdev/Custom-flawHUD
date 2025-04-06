@@ -174,7 +174,7 @@
 			"angles_x" 			"0"
 			"angles_y" 			"170"
 			"angles_z" 			"0"
-			"origin_x" 			"250"
+			"origin_x" 			"200"
 			"origin_y" 			"10"
 			"origin_z" 			"-30"
 			"frame_origin_x"	"0"
